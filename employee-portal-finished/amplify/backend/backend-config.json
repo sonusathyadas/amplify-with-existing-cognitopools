@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "employeeportal18c37b32": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

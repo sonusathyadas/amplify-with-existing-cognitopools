@@ -1,0 +1,32 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-employeeportal-prod-215356-authRole",
+      "UnauthRoleArn": "arn:aws:iam::890756660068:role/amplify-employeeportal-prod-215356-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::890756660068:role/amplify-employeeportal-prod-215356-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-employeeportal-prod-215356-deployment",
+      "UnauthRoleName": "amplify-employeeportal-prod-215356-unauthRole",
+      "StackName": "amplify-employeeportal-prod-215356",
+      "StackId": "arn:aws:cloudformation:ap-south-1:890756660068:stack/amplify-employeeportal-prod-215356/b6716de0-76e8-11ec-9ba0-0682c1aec28c",
+      "AmplifyAppId": "d29a0v7ge07a4o"
+    },
+    "categories": {
+      "auth": {
+        "employeeportal18c37b32": {
+          "userPoolId": "ap-south-1_Pj5phYg8U",
+          "userPoolName": "EmployeesUserPool",
+          "webClientId": "1bktiuug0gslccmcadv2mnlrsa",
+          "nativeClientId": "13lu68v3iao9q018f2uq03ka1o",
+          "identityPoolId": "ap-south-1:982178eb-0983-42e8-9065-3666b41df1e7",
+          "identityPoolName": "EmployeeAppIdentityPool",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::890756660068:role/Cognito_EmployeeAppIdentityPoolAuth_Role",
+          "authRoleName": "Cognito_EmployeeAppIdentityPoolAuth_Role",
+          "unauthRoleArn": "arn:aws:iam::890756660068:role/Cognito_EmployeeAppIdentityPoolUnauth_Role",
+          "unauthRoleName": "Cognito_EmployeeAppIdentityPoolUnauth_Role"
+        }
+      }
+    }
+  }
+}

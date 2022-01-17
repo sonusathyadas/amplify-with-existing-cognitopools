@@ -89,7 +89,7 @@ With the new Amplify CLI, yyou gain the ability to import existing Amazon Cognit
 6) Click on `Create Pool` button.
 7) Click on the `Allow` to create the identity pool.
 
-## Setupd the backend REST API authentication with Cognito User Pool
+## Setup the backend REST API authentication with Cognito User Pool
 1) Open the `employee-api-starter` project in Visual Studio Code.
 2) Restore all node packages by running `npm install` command.
 3) Install the following npm package to support Cognito authentication.

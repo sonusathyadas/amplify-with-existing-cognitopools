@@ -25,7 +25,6 @@ provider:
     TABLENAME: ${self:custom.tableName}
     NODE_ENV: 'production'
     REGION: 'ap-south-1'
-    COGNITO_USER_POOL_ID: 'ap-south-1_Pj5phYg8U'
 functions:
   api:
     handler: index.handler

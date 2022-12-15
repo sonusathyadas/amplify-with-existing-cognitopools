@@ -7,7 +7,7 @@
     "@aws-sdk/util-dynamodb": "^3.45.0",
     "cognito-express": "^2.0.19",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serverless-http": "^2.7.0",
     "swagger-ui-express": "^4.3.0"
   }
